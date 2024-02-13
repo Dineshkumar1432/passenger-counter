@@ -1,0 +1,45 @@
+#incr
+{
+	background-color:darkred;
+	padding:10px;
+	margin:auto;
+	border-radius:5px;
+	border:1px solid black;
+	
+}
+#incr1
+{
+	background-color:darkgreen;
+	padding:10px;
+	margin:auto;
+	border-radius:5px;
+	border:1px solid black;
+	width:80px;
+}
+.container
+{
+	text-align:center;
+	background: pink;
+    max-width: 27%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+	
+	
+	
+}
+body
+{
+	background-image:url("https://static.independent.co.uk/s3fs-public/indy100/gk3Qs2SxFx/15360-4ryw66.jpg");
+	background-size: cover;
+	
+}
+#head-1
+{
+	color:black;
+}
+#saver
+{
+	color:black;
+	font-size:20px;
+}
